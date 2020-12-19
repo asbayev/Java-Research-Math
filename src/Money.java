@@ -1,0 +1,1 @@
+public class Money {    public static void main(String[] args) {        short money = 1001;        if (money > 1000){            System.out.println("Buy Pizza! :)");        } else if (money < 1000){            System.out.println("Buy Hot-Dog! :(");        } else {            System.out.println("Let's go home boddy!");        }    }}
